@@ -1,8 +1,20 @@
 # Change Log - @azure/msal-angular
 
-This log was last generated on Mon, 08 May 2023 20:12:01 GMT and should not be manually modified.
+This log was last generated on Wed, 10 May 2023 18:21:09 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 3.0.0
+
+Wed, 10 May 2023 18:21:09 GMT
+
+### Patches
+
+- Bump @azure/msal-browser to v3.0.0-alpha.2
+
+### Changes
+
+- Update rxjs dev dependency #6004 (joarroyo@microsoft.com)
 
 ## 3.0.0-alpha.1
 
